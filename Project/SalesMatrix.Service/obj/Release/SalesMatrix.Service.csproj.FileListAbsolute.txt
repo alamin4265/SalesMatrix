@@ -1,0 +1,17 @@
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\SalesMatrix.Service.dll.config
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\SalesMatrix.Service.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\SalesMatrix.Service.pdb
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\Antlr3.Runtime.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\EntityFramework.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\EntityFramework.SqlServer.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\SalesMatrix.Entity.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\SalesMatrix.Entity.pdb
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\SalesMatrix.Entity.dll.config
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\Antlr3.Runtime.pdb
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\EntityFramework.xml
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\bin\Release\EntityFramework.SqlServer.xml
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\obj\Release\SalesMatrix.Service.csprojAssemblyReference.cache
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\obj\Release\SalesMatrix.Service.csproj.CoreCompileInputs.cache
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\obj\Release\SalesMatrix.Service.csproj.CopyComplete
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\obj\Release\SalesMatrix.Service.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Service\obj\Release\SalesMatrix.Service.pdb

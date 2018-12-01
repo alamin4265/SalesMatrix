@@ -1,0 +1,15 @@
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\bin\Release\SalesMatrix.Entity.dll.config
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\bin\Release\SalesMatrix.Entity.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\bin\Release\SalesMatrix.Entity.pdb
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\bin\Release\EntityFramework.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\bin\Release\EntityFramework.SqlServer.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\bin\Release\EntityFramework.xml
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\bin\Release\EntityFramework.SqlServer.xml
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\obj\Release\SalesMatrix.Entity.Migrations.Initial_Database_Create.resources
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\obj\Release\SalesMatrix.Entity.Migrations.changRoleIdType.resources
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\obj\Release\SalesMatrix.Entity.Migrations.tableVitualProprtryChane.resources
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\obj\Release\SalesMatrix.Entity.csproj.GenerateResource.cache
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\obj\Release\SalesMatrix.Entity.csproj.CoreCompileInputs.cache
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\obj\Release\SalesMatrix.Entity.csproj.CopyComplete
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\obj\Release\SalesMatrix.Entity.dll
+F:\Client Project\Sarmin_ApsSignFun\SalesMatrix\SalesMatrix.Entity\obj\Release\SalesMatrix.Entity.pdb
